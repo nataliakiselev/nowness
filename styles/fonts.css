@@ -1,0 +1,27 @@
+@font-face {
+    font-family: icons;
+    src: url(../fonts/icons.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: FuturaPT;
+    src: url(../fonts/Futura\ PT\ Bold\ 700.woff);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: FuturaPT;
+    src: url(../fonts/Futura\ PT\ Medium\ 400.woff);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: FuturaPT;
+    src: url(../fonts/Futura\ PT\ Light\ 200.woff);
+    font-weight: 200;
+    font-style: normal;
+}
