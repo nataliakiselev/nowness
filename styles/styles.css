@@ -64,6 +64,7 @@ svg {
 
 button {
   border: none;
+  outline: none;
 }
 
 .main-title {
@@ -861,8 +862,16 @@ input:focus {
 .more-to-love img {
   display: block;
 }
+
+.btn-link {
+  display: flex;
+  align-items: center;
+}
+
 .post-btn {
   padding: 0 50px;
+  display: flex;
+  align-items: center;
 }
 
 .join-us .title {
